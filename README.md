@@ -1,5 +1,5 @@
 # Project-4
-The most complex project by now  
+The most complex project by now. 
 
 ***Date format: YYYY-MM-DD***
 
@@ -10,7 +10,7 @@ Project of a database that supports the following types of operations:
 4) ***Del*** *condition* - deleting the entries that satisfy given *condition*
 5) ***Last*** *date* - printing the last entry prior to the specified *date*
 
-***Exmaples***
+***Examples***
 1) ***Find date > 2019-01-01*** - printing all events, that happened after 1st of January 2019
 2) ***Del date <= 2018-12-31 AND (event == "fishing" OR event = "swimming")*** - deleting the entries named *fishing* or *swimming*, that happened before 31st of December 2018 (including that date) 
 
